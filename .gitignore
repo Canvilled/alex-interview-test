@@ -1,0 +1,13 @@
+.idea
+.vscode
+._DS_Store
+.env
+node_modules
+mysql
+php
+/node_modules
+/vendor
+/public
+.budfiles
+npm-debug.log
+yarn-error.log
